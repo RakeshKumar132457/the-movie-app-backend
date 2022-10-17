@@ -1,5 +1,5 @@
 {
-  "name": "movie-app-backend",
+  "name": "the-movie-app-backend",
   "version": "1.0.0",
   "description": "Get information about movies",
   "main": "app.js",
